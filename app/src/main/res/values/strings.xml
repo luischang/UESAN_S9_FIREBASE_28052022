@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">UESAN_S9_FIREBASE</string>
+    <string name="valtxtemail">Ingrese su correo</string>
+    <string name="valtxtpassword">Ingrese su clave</string>
+    <string name="valbtnlogin">LOGIN</string>
 </resources>
