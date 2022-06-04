@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         val tvCurso: TextView = findViewById(R.id.tvCurso)
         val tvNota: TextView = findViewById(R.id.tvNota)
         val db = FirebaseFirestore.getInstance()
-
+        //holaaaa
             db.collection("courses")
                 .addSnapshotListener{ snapshots,e->
                     if(e!=null){
