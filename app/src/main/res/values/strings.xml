@@ -17,7 +17,10 @@
     <string name="menu_registro">Registro</string>
     <string name="menu_listado">Listado</string>
     <string name="menu_mascota">Mascota</string>
+    <string name="menu_customer">Customer</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="valbtnsave">SAVE</string>
+    <string name="valtitlecustomer">Customer</string>
+    <string name="valbtnsavedb">Save</string>
 </resources>
